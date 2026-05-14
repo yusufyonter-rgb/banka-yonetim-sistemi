@@ -31,3 +31,9 @@ Python ve **Tkinter** kütüphanesi kullanılarak, Nesne Yönelimli Programlama 
 3. Terminal, Komut İstemi (CMD) veya terminal destekli bir editör (VS Code, PyCharm vb.) açarak klasör dizinine gidin ve şu komutu çalıştırın:
    ```bash
    python main.py
+
+   # 🏦 Banka Yönetim Sistemi (Bank Management System)
+
+![Uygulama Arayüzü](arayuz.png)
+
+Python ve **Tkinter** kütüphanesi kullanılarak, Nesne Yönelimli Programlama (OOP) prensipleriyle geliştirilmiş grafik arayüzlü (GUI) bir bankacılık yönetim uygulamasıdır.
